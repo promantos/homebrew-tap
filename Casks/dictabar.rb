@@ -1,6 +1,6 @@
 cask "dictabar" do
   version "0.6.17"
-  sha256 "5cc062c28250099cd7995d71b65165a1f8624aa66cb50cf1ba9aa5040492678e"
+  sha256 "832e5d0bada3ef8ccc0eaaf7b9d5b67beacaae28a09c9808a79c9b287900ef56"
 
   url "https://github.com/promantos/dictabar-updates/releases/download/v#{version}/Dictabar-#{version}.zip"
   name "Dictabar"
